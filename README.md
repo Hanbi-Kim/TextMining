@@ -1,1 +1,1 @@
-# TextMining
+# Python을 활용한 텍스트마이닝 강의 자료
