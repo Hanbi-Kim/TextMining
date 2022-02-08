@@ -7,13 +7,6 @@
 1회: https://www.miricanvas.com/v/1umc5h <br>
 
 ### 수업 주피터 노트북 자료 <br>
-다운받는방법:
-1. [주피터노트북] 클릭
-2. Raw 탭 클릭
-3. 마우스 오른쪽 다른이름으로 저장 클릭 (단축키 Ctrl+S)
-4. 확장자명 .txt를 제거하고 .ipynb로 저장
-5. 주피터노트북 실행하여 불러오기
-
 1회 : 파이썬 기초 문법 [주피터노트북](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter01_%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88.ipynb) <br>
 
 ### 수업 데이터 자료 <br>
