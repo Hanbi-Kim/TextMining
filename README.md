@@ -6,7 +6,12 @@
 ### PPT 자료 <br>
 1회: https://www.miricanvas.com/v/1umc5h <br>
 
+### 수업 주피터 노트북 자료 <br>
+
+### 수업 데이터 자료 <br>
+
 ### 참고 사이트 정리: <br>
 파이썬기초: https://www.w3schools.com/python/default.asp <br>
 그래프 시각화: https://www.python-graph-gallery.com/ <br>
 자연어처리: https://wikidocs.net/book/2155 <br>
+
