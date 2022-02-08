@@ -1,4 +1,7 @@
 # Python을 활용한 텍스트마이닝 강의 자료
+### 소개 자료 <br>
+https://www.notion.so/1fac504dedd34abd80908da49dc295d4 <br>
+
 ### PPT 자료 <br>
 1회: https://www.miricanvas.com/v/1umc5h <br>
 
