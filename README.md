@@ -1,3 +1,6 @@
 # Python을 활용한 텍스트마이닝 강의 자료
 
-타이타닉 데이터 다운: https://www.kaggle.com/heptapod/titanic
+참고 사이트 정리:
+파이썬기초: https://www.w3schools.com/python/default.asp
+그래프 시각화: https://www.python-graph-gallery.com/
+자연어처리: https://wikidocs.net/book/2155
