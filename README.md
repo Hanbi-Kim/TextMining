@@ -1,7 +1,7 @@
 # Python을 활용한 텍스트마이닝 강의 자료
 ### 소개 자료 <br>
 노션: https://cake-margin-976.notion.site/1fac504dedd34abd80908da49dc295d4 <br>
-* 위의 문의사항의 카카오톡/이메일/전화번호 를 통해 편히 연락주세요. 
+*위의 문의사항의 카카오톡/이메일/전화번호 를 통해 편히 연락주세요. 
 
 ### PPT 자료 <br>
 1회: https://www.miricanvas.com/v/1umc5h <br>
