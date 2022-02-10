@@ -1,7 +1,7 @@
 # Python을 활용한 텍스트마이닝 강의 자료
 ### 소개 자료 <br>
 소개: [Notion](https://cake-margin-976.notion.site/1fac504dedd34abd80908da49dc295d4) <br>
-*위의 문의사항의 카카오톡/이메일/전화번호 를 통해 편히 연락주세요. 
+*위의 문의사항의 카카오톡/이메일/전화번호 를 통해 편히 연락주세요. <br>
 
 ### 수업 자료 <br>
 #### 1회 : 파이썬 기초 문법 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter01_%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88.ipynb) [[PPT]](https://www.miricanvas.com/v/1umc5h) <br> 
@@ -19,6 +19,7 @@
 #### 수업 데이터 자료 <br>
 대한민국 인구 데이터 출처 : https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1IN1502&conn_path=I2 <br>
 
+<br>
 ### 참고 사이트 정리: <br>
 파이썬기초: https://www.w3schools.com/python/default.asp <br>
 PANDAS 공식 가이드 : https://pandas.pydata.org/docs/user_guide/index.html <br>
