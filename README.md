@@ -32,6 +32,7 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
 그래프 시각화: https://www.python-graph-gallery.com/ <br>
 자연어처리: https://wikidocs.net/book/2155 <br><br>
 
+### 데이터 분석 공모전
 캐글: https://www.kaggle.com/ <br>
 데이콘: https://dacon.io/ <br>
 
