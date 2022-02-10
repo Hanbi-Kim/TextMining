@@ -14,6 +14,7 @@
 
 ### 참고 사이트 정리: <br>
 파이썬기초: https://www.w3schools.com/python/default.asp <br>
+PANDAS 공식 가이드 : https://pandas.pydata.org/docs/user_guide/index.html <br>
 Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
 그래프 시각화: https://www.python-graph-gallery.com/ <br>
 자연어처리: https://wikidocs.net/book/2155 <br><br>
