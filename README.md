@@ -22,7 +22,7 @@
   - 2-2. Pandas의 시리즈/데이터프레임 이해하기 <br>
   - 2-3. 엑셀/CSV 파일을 읽어오고 저장하기 <br>
   - 2-4. Matplotlib의 파이차트/막대그래프 그리기 <br>
-  - 2-5. 실습: 통계청 인구데이터를 다운받아 파이차트/막대그래프 그리기 [데이터](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1IN1502&conn_path=I2) <br>
+  - 2-5. 실습: 통계청 인구데이터를 다운받아 파이차트/막대그래프 그리기 [[통계청 인구 데이터]](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1IN1502&conn_path=I2) <br>
 #### 참고사이트 <br>
 PANDAS 공식 가이드 : https://pandas.pydata.org/docs/user_guide/index.html <br>
 Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
