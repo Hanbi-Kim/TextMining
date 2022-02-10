@@ -19,7 +19,7 @@
 #### 수업 데이터 자료 <br>
 대한민국 인구 데이터 출처 : https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1IN1502&conn_path=I2 <br>
 
-<br>
+<br/>
 ### 참고 사이트 정리: <br>
 파이썬기초: https://www.w3schools.com/python/default.asp <br>
 PANDAS 공식 가이드 : https://pandas.pydata.org/docs/user_guide/index.html <br>
