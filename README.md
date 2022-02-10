@@ -16,8 +16,7 @@
   - 2-3. 엑셀/CSV 파일을 읽어오고 저장하기 <br>
   - 2-4. Matplotlib의 파이차트/막대그래프 그리기 <br>
   - 2-5. 실습: 통계청 인구데이터를 다운받아 파이차트/막대그래프 그리기 <br>
-
-### 수업 데이터 자료 <br>
+#### 수업 데이터 자료 <br>
 대한민국 인구 데이터 출처 : https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1IN1502&conn_path=I2 <br>
 
 ### 참고 사이트 정리: <br>
