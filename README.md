@@ -1,5 +1,5 @@
 # Python을 활용한 텍스트마이닝 강의 자료
-# [<img src="https://github.com/Hanbi-Kim/TextMining/blob/main/images/Python%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%9D%B4%EB%8B%9D.jpg?raw=true")
+# [<img src="https://github.com/Hanbi-Kim/TextMining/blob/main/images/Python%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9C%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A7%88%EC%9D%B4%EB%8B%9D.jpg?raw=true")]
 ## 소개 자료 
 소개: [Notion](https://cake-margin-976.notion.site/1fac504dedd34abd80908da49dc295d4) <br>
 *위의 문의사항의 카카오톡/이메일/전화번호 를 통해 편히 연락주세요. <br>
