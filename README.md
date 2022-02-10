@@ -38,6 +38,8 @@ PANDAS 공식 가이드 : https://pandas.pydata.org/docs/user_guide/index.html <
 Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
 그래프 시각화: https://www.python-graph-gallery.com/ <br>
 
+<br>
+
 ### 2 단계: 머신러닝과 딥러닝 알고리즘 이해하기
 #### 3회: Sckit-Learn을 활용한 머신러닝 이해하기
   - 3-1. Machine Learning을 활용한 데이터 분석 프로세스 이해하기
@@ -47,6 +49,8 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
   - 4-1. Deep Learning, 자연어 처리 프로세스 이해하기
   - 4-2. 실습: BBC news headline Dataset을 딥러닝을 활용하여 분류하기
 
+<br>
+
 ### 3 단계: 웹 크롤링을 활용하여 웹 페이지 정보 스크래핑하기.
 #### 5회: 웹 페이지 크롤링
   - 5-1. BeautifulSoup 패키지 설치 및 불러오기
@@ -54,11 +58,15 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
   - 5-3. 크롬드라이버, Selenium 패키지 설치 및 불러오기
   - 5-4. 실습: 네이버 영화 리뷰 크롤링
 
+<br>
+
 ### 4 단계: 영어/한국어 자연어 처리.
 #### 6회: 한국어 텍스트 전처리
   - 6-1. JAVA SE Developer 설치
   - 6-2. KONLPY 패키지 설치 및 불러오기
   - 6-3. KKMA, OKT 형태소 분류기를 활용 연습
+
+<br>
 
 ## 데이터 분석 공모전
 캐글: https://www.kaggle.com/ <br>
