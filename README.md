@@ -32,6 +32,16 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
   - 3-1. Machine Learning을 활용한 데이터 분석 프로세스 이해하기.
   - 3-2. 실습: Iris Dataset을 활용하여 머신러닝 분석 프로세스 적용하기. 
 
+#### 4회: Tensorflow을 활용한 딥러닝 이해하기
+  - 4-1. Deep Learning, 자연어 처리 프로세스 이해하기.
+  - 4-2. 실습: BBC news headline Dataset을 딥러닝을 활용하여 분류하기. 
+
+#### 5회: 웹 페이지 크롤링
+  - 5-1. BeautifulSoup 패키지 설치 및 불러오기
+  - 5-2. 실습: 네이버 영화 랭킹 크롤링
+  - 5-3. 크롬드라이버, Selenium 패키지 설치 및 불러오기
+  - 5-4. 실습: 네이버 영화 리뷰 크롤링
+
 ## 데이터 분석 공모전
 캐글: https://www.kaggle.com/ <br>
 데이콘: https://dacon.io/ <br>
