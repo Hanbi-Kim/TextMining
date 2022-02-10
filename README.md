@@ -9,7 +9,7 @@
 
 ## 수업 자료 
 #### 1회 : 파이썬 기초 문법 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter01_%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88.ipynb) [[PPT]](https://www.miricanvas.com/v/1umc5h) <br> 
-  - 1-1. 아나콘다 설치 및 주피터 노트북 실행 <br>
+  - 1-1. [아나콘다](https://www.anaconda.com/products/individual) 설치 및 주피터 노트북 실행 <br>
   - 1-2. 주피터 기본 단축키  <br>
   - 1-3. 파이썬 기초 [데이터타입/함수/IF문/While문/For문] <br>
   - 1-4. 실습: BMI 계산기 프로그래밍  <br>
