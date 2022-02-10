@@ -4,13 +4,13 @@
 *위의 문의사항의 카카오톡/이메일/전화번호 를 통해 편히 연락주세요. 
 
 ### 수업 자료 <br>
-#### 1회 : 파이썬 기초 문법 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter01_%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88.ipynb) [[PPT]](https://www.miricanvas.com/v/1umc5h) <br> <br>
+#### 1회 : 파이썬 기초 문법 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter01_%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88.ipynb) [[PPT]](https://www.miricanvas.com/v/1umc5h) <br> 
   - 1-1. 아나콘다 설치 및 주피터 노트북 실행 <br>
   - 1-2. 주피터 기본 단축키  <br>
   - 1-3. 파이썬 기초 [데이터타입/함수/IF문/While문/For문] <br>
   - 1-4. 실습: BMI 계산기 프로그래밍  <br>
 
-#### 2회: PANDAS & Matplotlib [주피터노트북](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter01_%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88.ipynb) <br>
+#### 2회: PANDAS & Matplotlib [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter01_%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88.ipynb) <br>
   - 2-1. Pandas/Matplotlib 패키지 설치 및 불러오기 <br>
   - 2-2. Pandas의 시리즈/데이터프레임 이해하기 <br>
   - 2-3. 엑셀/CSV 파일을 읽어오고 저장하기 <br>
