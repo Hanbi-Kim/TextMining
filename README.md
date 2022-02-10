@@ -29,6 +29,10 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
 그래프 시각화: https://www.python-graph-gallery.com/ <br>
 <br/>
 
+#### 3회: Sckit-Learn을 활용한 머신러닝 이해하기
+  - 3-1. Machine Learning을 활용한 데이터 분석 프로세스 이해하기.
+  - 3-2. 실습: Iris Dataset을 활용하여 머신러닝 분석 프로세스 적용하기. 
+
 ## 데이터 분석 공모전
 캐글: https://www.kaggle.com/ <br>
 데이콘: https://dacon.io/ <br>
