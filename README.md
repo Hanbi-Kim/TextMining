@@ -2,7 +2,7 @@
 
 
 ## 소개 자료 
-#### 소개: [Notion](https://cake-margin-976.notion.site/1fac504dedd34abd80908da49dc295d4) <br>
+#### 강의 소개: [[Notion]](https://cake-margin-976.notion.site/1fac504dedd34abd80908da49dc295d4) <br>
 *위의 문의사항의 카카오톡/이메일/전화번호 를 통해 편히 연락주세요. <br>
 
 <br>
