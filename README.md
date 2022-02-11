@@ -27,6 +27,8 @@ Python을 활용하여, 웹 페이지의 정보를 스크래핑하여 저장하�
 #### 참고사이트 <br>
 아나콘다 : https://www.anaconda.com/products/individual <br>
 파이썬기초: https://www.w3schools.com/python/default.asp <br>
+파이썬기초 CheatSheet : https://github.com/Hanbi-Kim/TextMining/blob/main/CheatSheet/Python_Basics.pdf <br>
+* 참고: Python Cheatsheet이라는 자료가 많음으로 위와 같은 정리된 자료를 보시는 것도 좋을 수 있습니다.
 
 #### 2회: PANDAS & Matplotlib  <br>
   - 2-1. Pandas/Matplotlib 패키지 설치 및 불러오기 <br>
