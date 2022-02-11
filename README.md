@@ -26,7 +26,8 @@ Python을 활용하여, 웹 페이지의 정보를 스크래핑하여 저장하�
   - 1-5. 실습: BMI 계산기 프로그래밍 [[실습파일]](https://github.com/Hanbi-Kim/TextMining/blob/main/%5B%EC%8B%A4%EC%8A%B51%5D%20BMI%20%EA%B3%84%EC%82%B0%EA%B8%B0.ipynb) <br>
 #### 참고사이트 <br>
 아나콘다 : https://www.anaconda.com/products/individual <br>
-파이썬기초: https://www.w3schools.com/python/default.asp <br>
+파이썬기초: https://www.w3schools.com/python/default.asp <br><br>
+
 파이썬기초 CheatSheet : https://github.com/Hanbi-Kim/TextMining/blob/main/CheatSheet/Python_Basics.pdf <br>
 ** 참고: Python Cheatsheet이라는 자료가 많음으로 위와 같은 정리된 자료를 보시는 것도 좋을 수 있습니다.
 
