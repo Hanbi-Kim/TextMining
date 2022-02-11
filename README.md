@@ -22,7 +22,7 @@ Python을 활용하여, 웹 페이지의 정보를 스크래핑하여 저장하�
   - 1-1. 아나콘다 설치 및 주피터 노트북 실행 <br>
   - 1-2. 주피터 기본 단축키  <br>
   - 1-3. 파이썬 기초 [데이터타입/함수/IF문/While문/For문] <br>
-  - 1-4. 파이썬 기초 문법을 활용한 연습 문제 [[실습파일]]() <br>
+  - 1-4. 파이썬 기초 문법을 활용한 연습 문제 [[실습파일]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter01_Python%20Practice.ipynb) <br>
   - 1-5. 실습: BMI 계산기 프로그래밍 [[실습파일]](https://github.com/Hanbi-Kim/TextMining/blob/main/%5B%EC%8B%A4%EC%8A%B51%5D%20BMI%20%EA%B3%84%EC%82%B0%EA%B8%B0.ipynb) <br>
 #### 참고사이트 <br>
 아나콘다 : https://www.anaconda.com/products/individual <br>
