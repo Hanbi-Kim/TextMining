@@ -18,7 +18,7 @@ Python을 활용하여, 웹 페이지의 정보를 스크래핑하여 저장하�
 
 ## 수업 자료 
 ### 1 단계: Python 프로그래밍 기초 능력 향상
-#### 1회 : 파이썬 기초 문법 [[Jupyter]]() [[PPT]](https://www.miricanvas.com/v/1umc5h) <br> 
+#### 1회 : 파이썬 기초 문법 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter01_Python%20Intro.ipynb) [[PPT]](https://www.miricanvas.com/v/1umc5h) <br> 
   - 1-1. 아나콘다 설치 및 주피터 노트북 실행 <br>
   - 1-2. 주피터 기본 단축키  <br>
   - 1-3. 파이썬 기초 [데이터타입/함수/IF문/While문/For문] <br>
@@ -27,7 +27,7 @@ Python을 활용하여, 웹 페이지의 정보를 스크래핑하여 저장하�
 아나콘다 : https://www.anaconda.com/products/individual <br>
 파이썬기초: https://www.w3schools.com/python/default.asp <br>
 
-#### 2회: PANDAS & Matplotlib [[Jupyter]]() <br>
+#### 2회: PANDAS & Matplotlib  <br>
   - 2-1. Pandas/Matplotlib 패키지 설치 및 불러오기 <br>
   - 2-2. Pandas의 시리즈/데이터프레임 이해하기 <br>
   - 2-3. 엑셀/CSV 파일을 읽어오고 저장하기 <br>
