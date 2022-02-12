@@ -33,16 +33,17 @@ Python을 활용하여, 웹 페이지의 정보를 스크래핑하여 저장하�
 파이썬기초 CheatSheet : https://github.com/Hanbi-Kim/TextMining/blob/main/CheatSheet/Python_Basics.pdf <br>
 ** 참고: Python Cheatsheet이라는 자료가 많음으로 위와 같은 정리된 자료를 보시는 것도 좋을 수 있습니다.
 
-#### 2회: PANDAS & Matplotlib  <br>
+#### 2회: PANDAS & Matplotlib [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter02_Pandas%26Matplotlib.ipynb) <br>
   - 2-1. Pandas/Matplotlib 패키지 설치 및 불러오기 <br>
   - 2-2. Pandas의 시리즈/데이터프레임 이해하기 <br>
   - 2-3. 엑셀/CSV 파일을 읽어오고 저장하기 <br>
   - 2-4. Matplotlib의 파이차트/막대그래프 그리기 <br>
-  - 2-5. 실습: 통계청 인구데이터를 다운받아 파이차트/막대그래프 그리기 [[인구 데이터]](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1IN1502&conn_path=I2) <br>
+  - 
 #### 참고사이트 <br>
 PANDAS 공식 가이드 : https://pandas.pydata.org/docs/user_guide/index.html <br>
-Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
 그래프 시각화: https://www.python-graph-gallery.com/ <br>
+Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
+
 
 <br>
 
