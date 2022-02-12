@@ -38,7 +38,7 @@ Python을 활용하여, 웹 페이지의 정보를 스크래핑하여 저장하�
   - 2-2. Pandas의 시리즈/데이터프레임 이해하기 <br>
   - 2-3. 엑셀/CSV 파일을 읽어오고 저장하기 <br>
   - 2-4. Matplotlib의 파이차트/막대그래프 그리기 <br>
-  - 
+   
 #### 참고사이트 <br>
 PANDAS 공식 가이드 : https://pandas.pydata.org/docs/user_guide/index.html <br>
 그래프 시각화: https://www.python-graph-gallery.com/ <br>
