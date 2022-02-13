@@ -48,7 +48,7 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
 <br>
 
 ### 2 단계: 웹 크롤링을 활용하여 웹 페이지 정보 스크래핑하기.
-#### 3회: 웹 페이지 크롤링
+#### 3회: 웹 페이지 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter03_WebCrawling.ipynb) <br>
   - 3-1. BeautifulSoup 패키지 설치 및 불러오기
   - 3-2. 실습: 네이버 영화 랭킹 크롤링
   - 3-3. 크롬드라이버, Selenium 패키지 설치 및 불러오기
