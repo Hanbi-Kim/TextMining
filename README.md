@@ -52,7 +52,7 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
   - 3-1. BeautifulSoup 패키지 설치 및 불러오기
   - 3-2. 실습: 네이버 영화 랭킹 크롤링 [[실습파일]](https://github.com/Hanbi-Kim/TextMining/blob/main/%5B%EC%8B%A4%EC%8A%B53%5D%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%98%81%ED%99%94%20%EB%9E%AD%ED%82%B9%20%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91.ipynb)
   - 3-3. 크롬드라이버, Selenium 패키지 설치 및 불러오기
-  - 3-4. 실습: 네이버 영화 리뷰 크롤링
+  - 3-4. 실습: 네이버 영화 리뷰 크롤링 [[실습파일]](https://github.com/Hanbi-Kim/TextMining/blob/main/%5B%EC%8B%A4%EC%8A%B54%5D%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%98%81%ED%99%94%20%EB%A6%AC%EB%B7%B0%20%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
 
 #### 참고사이트 <br>
 크롬드라이버: https://chromedriver.chromium.org/ <br>
