@@ -54,6 +54,10 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
   - 3-3. 크롬드라이버, Selenium 패키지 설치 및 불러오기
   - 3-4. 실습: 네이버 영화 리뷰 크롤링
 
+#### 참고사이트 <br>
+크롬드라이버: https://chromedriver.chromium.org/ <br>
+** 참고: 크롬버전 확인하기 (크롬 우측상당 (:) 클릭 -> 도움말 -> 크롬 정보)
+
 <br>
 
 ### 3 단계: 머신러닝과 딥러닝 알고리즘 이해하기
