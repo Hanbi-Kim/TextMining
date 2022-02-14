@@ -38,7 +38,8 @@ Python을 활용하여, 웹 페이지의 정보를 스크래핑하여 저장하�
   - 2-2. Pandas의 시리즈/데이터프레임 이해하기 <br>
   - 2-3. 엑셀/CSV 파일을 읽어오고 저장하기 <br>
   - 2-4. Matplotlib의 파이차트/막대그래프 그리기 <br>
-  - 2-5. 실습: 노인의 우울증상 시각화 [[실습파일]](https://github.com/Hanbi-Kim/TextMining/blob/main/%5B%EC%8B%A4%EC%8A%B52%5D%20%EB%85%B8%EC%9D%B8%EC%9D%98%20%EC%9A%B0%EC%9A%B8%EC%A6%9D%EC%83%81%20%EC%8B%9C%EA%B0%81%ED%99%94.ipynb) <br>
+  - 2-5. 실습: 노인의 우울증상 시각화 [[실습파일]](https://github.com/Hanbi-Kim/TextMining/blob/main/%5B%EC%8B%A4%EC%8A%B52%5D%20%EB%85%B8%EC%9D%B8%EC%9D%98%20%EC%9A%B0%EC%9A%B8%EC%A6%9D%EC%83%81%20%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)
+ [[데이터]](https://kosis.kr/statisticsList/statisticsListIndex.do?vwcd=MT_ZTITLE&menuId=M_01_01#content-group) <br>
    
 #### 참고사이트 <br>
 PANDAS 공식 가이드 : https://pandas.pydata.org/docs/user_guide/index.html <br>
