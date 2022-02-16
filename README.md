@@ -62,8 +62,8 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
 
 <br>
 
-### 3 단계: 머신러닝과 딥러닝 알고리즘 이해하기
-#### 4회: Sckit-Learn을 활용한 머신러닝 이해하기 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter04_Machine%20Learning%20%5BIRIS%5D.ipynb)
+### 3 단계: 머신러닝과 딥러닝 알고리즘 이해하기 
+#### 4회: Sckit-Learn을 활용한 머신러닝 이해하기 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter04_Machine%20Learning%20%5BIRIS%5D.ipynb) [[PPT]](https://www.miricanvas.com/v/1viw07)
   - 4-1. Machine Learning을 활용한 데이터 분석 프로세스 이해하기
   - 4-2. 실습: Iris Dataset을 활용하여 머신러닝 분석 프로세스 적용하기
 
