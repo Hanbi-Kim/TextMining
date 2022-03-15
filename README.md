@@ -74,8 +74,8 @@ HTML Tutorial : https://www.w3schools.com/html/ <br>
 
 <br>
 
-### 3 단계: 한국어 자연어 처리 
-#### KONPLY를 활용한 형태소 분석
+### 7회차 [3/28] KONPLY를 활용한 형태소 분석 <br>
+
 
 <br>
 
