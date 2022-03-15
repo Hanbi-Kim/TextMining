@@ -87,6 +87,9 @@ HTML Tutorial : https://www.w3schools.com/html/ <br>
 ### 7회차 [3/28] KONPLY를 활용한 형태소 분석 <br>
 - 7-1. KONPLY 작업 환경 설치 [[pdf]](https://hanbi-kim.github.io/TextMining/files/KONLPY_%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD_%EC%84%A4%EC%B9%98.pdf) [[설치법]](https://konlpy.org/en/v0.4.4/install/)
 
+#### 6회차 참고사이트 <br>
+KONLPY 공식 홈페이지: https://konlpy.org/en/v0.4.4/ <br>
+
 <br>
 
 ## 데이터 분석 관련 데이터 수집 및 공모전
