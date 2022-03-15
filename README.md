@@ -2,15 +2,6 @@
 
 [[줌미팅룸]](https://zoom.us/j/3274916055?pwd=TmE3cUxSZXRVWWlkbVF4N3pxS1VRUT09#success)
 
-## 소개 자료 
-#### 개인 소개 및 이전 강의 소개: [[Notion]](https://cake-margin-976.notion.site/1fac504dedd34abd80908da49dc295d4) <br>
-*위의 문의사항의 카카오톡/이메일/전화번호 를 통해 편히 연락주세요. <br>
-
-#### 최종 목표:
-Python을 활용하여, 웹 페이지의 정보를 스크래핑하여 저장하고 머신러닝과 딥러닝을 기반으로 하여 영어/한국어 텍스트에 대한 텍스트 마이닝 진행. 
-
-<br>
-
 ## 수업 자료 
 ### 1회차 [2/10]: 파이썬 기초 문법 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter01_Python%20Intro.ipynb) [[PPT]](https://www.miricanvas.com/v/1umc5h) <br> 
   - 1-1. 아나콘다 설치 및 주피터 노트북 실행 <br>
