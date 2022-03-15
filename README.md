@@ -2,7 +2,7 @@
 
 
 
-## 수업 자료 [[]](https://zoom.us/j/3274916055?pwd=TmE3cUxSZXRVWWlkbVF4N3pxS1VRUT09#success)
+## 수업 자료 [[ZOOM]](https://zoom.us/j/3274916055?pwd=TmE3cUxSZXRVWWlkbVF4N3pxS1VRUT09#success)
 ### 1회차 [2/10]: 파이썬 기초 문법 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter01_Python%20Intro.ipynb) [[PPT]](https://www.miricanvas.com/v/1umc5h) <br> 
   - 1-1. 아나콘다 설치 및 주피터 노트북 실행 <br>
   - 1-2. 주피터 기본 단축키  <br>
