@@ -15,7 +15,7 @@ Python을 활용하여, 웹 페이지의 정보를 스크래핑하여 저장하�
 - 3 단계: 머신러닝과 딥러닝 알고리즘 이해하기.
 - 4 단계: 영어/한국어 자연어 처리.
 <br>
-![Red text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
+
 ## 수업 자료 
 ### 1 단계: Python 프로그래밍 기초 능력 향상
 #### 1회 : 파이썬 기초 문법 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter01_Python%20Intro.ipynb) [[PPT]](https://www.miricanvas.com/v/1umc5h) <br> 
@@ -88,3 +88,5 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
 캐글: https://www.kaggle.com/ <br>
 데이콘: https://dacon.io/ <br>
 
+
+![Red text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
