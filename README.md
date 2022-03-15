@@ -56,8 +56,13 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
 
 <br>
 
-### 5회차 [3/14]: HTML 웹 페이지 제작 및 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter03_%EB%8D%94%EB%B2%A0%ED%8A%B8%EB%A7%A8%20%EC%98%81%ED%99%94%20%EB%A6%AC%EB%B7%B0%20%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb) 
-  - 5-1. 실제 제작한 웹페이지 크롤링 및 더베트맨 영화 리뷰 크롤링 
+### 5회차 [3/14]: HTML 웹 페이지 제작 및 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter05_%EB%8D%94%EB%B0%B0%ED%8A%B8%EB%A7%A8%EC%98%81%ED%99%94%EB%A6%AC%EB%B7%B0%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb) 
+  - 5-1. HTML 태그 및 속성 값 이해를 위한 간단한 웹페이지 제작 [[Web]](https://hanbi-kim.github.io/TextMining/web.html)
+  - 5-2. 제작한 웹페이지 크롤링하기.
+  - 5-3. 더배트맨 영화 평점/리뷰 크롤링.
+  - 5-4. 더배트맨 영화 평점/리뷰 두번째 페이지 크롤링.
+  - 5-5. 더배트맨 영화 평점/리뷰 30페이지까지 크롤링.
+  - 5-6. '신고'가 포함된 부분은 제거하고 저장하기.
 
 #### 5회차 참고사이트 <br>
 HTML 연습 사이트 : http://jsbin.com/?html,output <br>
