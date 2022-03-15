@@ -89,4 +89,4 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
 데이콘: https://dacon.io/ <br>
 
 
-![Red text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
+<span data-color="red">Red</span>
