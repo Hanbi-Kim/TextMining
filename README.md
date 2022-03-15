@@ -59,6 +59,10 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
 ### 5회차 [3/14]: HTML 웹 페이지 제작 및 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter03_%EB%8D%94%EB%B2%A0%ED%8A%B8%EB%A7%A8%20%EC%98%81%ED%99%94%20%EB%A6%AC%EB%B7%B0%20%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb) 
   - 5-1. 실제 제작한 웹페이지 크롤링 및 더베트맨 영화 리뷰 크롤링 
 
+#### 5회차 참고사이트 <br>
+HTML 연습 사이트 : http://jsbin.com/?html,output <br>
+HTML Tutorial : https://www.w3schools.com/html/ <br>
+
 <br>
 
 ### 6회차 [3/21]: Selenium을 활용한 동적 웹 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter03_Selenium%ED%99%9C%EC%9A%A9%20%5B%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%EB%A7%A4%EC%9E%A5%EC%A3%BC%EC%86%8C%5D.ipynb)
