@@ -87,7 +87,8 @@ HTML Tutorial : https://www.w3schools.com/html/ <br>
 ### 7회차 [3/28] 빈도분석과 워드클라우드 시각화 <br>
 - 7-1. KONPLY 작업 환경 설치 [[pdf]](https://hanbi-kim.github.io/TextMining/files/KONLPY_%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD_%EC%84%A4%EC%B9%98.pdf) [[설치법]](https://konlpy.org/ko/latest/install/)
 
-#### 6회차 참고사이트 <br>
+#### 실습: 웰니스 대화 스크립트 데이터셋을 활용한 빈도분석과 워드 클라우드 시각화 [[데이터셋 출처]](https://aihub.or.kr/opendata/keti-data/recognition-laguage/KETI-02-006)
+#### 7회차 참고사이트 <br>
 KONLPY 공식 홈페이지: https://konlpy.org/ko/latest/# <br>
 한국어 POS Tag 비교: https://docs.google.com/spreadsheets/d/1OGAjUvalBuX-oZvZ_-9tEfYD2gQe7hTGsgUpiiBSXI8/edit#gid=0 <br>
 
