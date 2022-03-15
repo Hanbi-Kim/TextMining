@@ -79,8 +79,9 @@ HTML Tutorial : https://www.w3schools.com/html/ <br>
 
 <br>
 
-## 데이터 분석 공모전
-캐글: https://www.kaggle.com/ <br>
-데이콘: https://dacon.io/ <br>
+## 데이터 분석 관련 데이터 수집 및 공모전
+KAGGLE: https://www.kaggle.com/ <br>
+DACON: https://dacon.io/ <br>
+AIBUB: https://aihub.or.kr/ <br>
 
 
