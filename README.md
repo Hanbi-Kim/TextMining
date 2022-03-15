@@ -53,7 +53,7 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
 #### 3회: 웹 페이지 크롤링 <br>
   - 3-1. BeautifulSoup 활용 빌보드핫100차트 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter03_BeautifulSoup%ED%99%9C%EC%9A%A9%20%5B%EB%B9%8C%EB%B3%B4%EB%93%9C%ED%95%AB100%EC%B0%A8%ED%8A%B8%5D.ipynb)
   - 3-2. 실습: 네이버 영화 랭킹 크롤링 [[실습파일]](https://github.com/Hanbi-Kim/TextMining/blob/main/%5B%EC%8B%A4%EC%8A%B53%5D%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%98%81%ED%99%94%20%EB%9E%AD%ED%82%B9%20%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91.ipynb)
-  - 3-3. 실제 제작한 웹페이지 크롤링 및 더베트맨 영화 리뷰 크롤링 [[실습파일]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter03_%EB%8D%94%EB%B2%A0%ED%8A%B8%EB%A7%A8%20%EC%98%81%ED%99%94%20%EB%A6%AC%EB%B7%B0%20%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb) [<font color="red">03/14(5회차)</font>]
+  - 3-3. 실제 제작한 웹페이지 크롤링 및 더베트맨 영화 리뷰 크롤링 [[실습파일]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter03_%EB%8D%94%EB%B2%A0%ED%8A%B8%EB%A7%A8%20%EC%98%81%ED%99%94%20%EB%A6%AC%EB%B7%B0%20%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb) [03/14(5회차)]
   - 3-3. 크롬드라이버, Selenium 활용 스타벅스 매장 주소 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter03_Selenium%ED%99%9C%EC%9A%A9%20%5B%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%EB%A7%A4%EC%9E%A5%EC%A3%BC%EC%86%8C%5D.ipynb)
   - 3-4. 실습: 네이버 영화 리뷰 크롤링 [[실습파일]](https://github.com/Hanbi-Kim/TextMining/blob/main/%5B%EC%8B%A4%EC%8A%B54%5D%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%98%81%ED%99%94%20%EB%A6%AC%EB%B7%B0%20%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
 
@@ -89,4 +89,3 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
 데이콘: https://dacon.io/ <br>
 
 
-<span data-color="red">Red</span>
