@@ -17,6 +17,8 @@ Python을 활용하여, 웹 페이지의 정보를 스크래핑하여 저장하�
   - 1-2. 주피터 기본 단축키  <br>
   - 1-3. 파이썬 기초 [데이터타입/함수/IF문/While문/For문] <br>
 
+<br>
+
 ### 2회차 [2/18]: 파이썬 기초 문법을 활용한 실습 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter01_Python%20Practice.ipynb) <br>
   - 2-1. 파이썬 기초 문법을 활용한 연습 문제 
   - 2-2. 실습: BMI 계산기 프로그래밍 [[실습파일]](https://github.com/Hanbi-Kim/TextMining/blob/main/%5B%EC%8B%A4%EC%8A%B51%5D%20BMI%20%EA%B3%84%EC%82%B0%EA%B8%B0.ipynb) <br>
@@ -29,6 +31,8 @@ Python을 활용하여, 웹 페이지의 정보를 스크래핑하여 저장하�
 
 파이썬기초 CheatSheet : https://github.com/Hanbi-Kim/TextMining/blob/main/CheatSheet/Python_Basics.pdf <br>
 ** 참고: Python Cheatsheet이라는 자료가 많음으로 위와 같은 정리된 자료를 보시는 것도 좋을 수 있습니다.
+
+<br>
 
 ### 3회차 [2/28]: PANDAS & Matplotlib [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter02_Pandas%26Matplotlib.ipynb) <br>
   - 3-1. Pandas/Matplotlib 패키지 설치 및 불러오기 <br>
@@ -50,8 +54,12 @@ Matplotlib CheatSheet : https://matplotlib.org/cheatsheets/#cheatsheets <br>
   - 4-1. BeautifulSoup 활용 빌보드핫100차트 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter03_BeautifulSoup%ED%99%9C%EC%9A%A9%20%5B%EB%B9%8C%EB%B3%B4%EB%93%9C%ED%95%AB100%EC%B0%A8%ED%8A%B8%5D.ipynb)
   - 4-2. 실습: 네이버 영화 랭킹 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/%5B%EC%8B%A4%EC%8A%B53%5D%20%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%98%81%ED%99%94%20%EB%9E%AD%ED%82%B9%20%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91.ipynb)
 
+<br>
+
 ### 5회차 [3/14]: HTML 웹 페이지 제작 및 크롤링
   - 5-1. 실제 제작한 웹페이지 크롤링 및 더베트맨 영화 리뷰 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter03_%EB%8D%94%EB%B2%A0%ED%8A%B8%EB%A7%A8%20%EC%98%81%ED%99%94%20%EB%A6%AC%EB%B7%B0%20%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb) 
+
+<br>
 
 ### 6회차 [3/21]: Selenium을 활용한 동적 웹 크롤링
   - 6-1. 크롬드라이버, Selenium 활용 스타벅스 매장 주소 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter03_Selenium%ED%99%9C%EC%9A%A9%20%5B%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%EB%A7%A4%EC%9E%A5%EC%A3%BC%EC%86%8C%5D.ipynb)
