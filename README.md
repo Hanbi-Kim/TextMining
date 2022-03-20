@@ -63,12 +63,13 @@ HTML Tutorial : https://www.w3schools.com/html/ <br>
 <br>
 
 ### 6회차 [3/21]: Selenium을 활용한 동적 웹 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter03_Selenium%ED%99%9C%EC%9A%A9%20%5B%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%EB%A7%A4%EC%9E%A5%EC%A3%BC%EC%86%8C%5D.ipynb)
-  - 6-1. 버전에 맞는 크롬 드라이버 설치하기.
-  - 6-2. Selenium 드라이버를 활용하여 키보드/마우스 클릭 연습하기.
-  - 6-3. 서울에 있는 스타벅스 매장명, 매장주소 크롤링하여 저장하기.
-  - 6-4. 매장 주소에서 '구' 정보만 추출하고 구별 매장수 계산하기.
-  - 6-5. Folium 설치 및 활용 연습하기.
-  - 6-6. Folium을 활용하여 서울시 구별 매장 수 시각화하기.
+  - 6-1. 셀레니움 설치 및 드라이브 불러오기.
+  - 6-2. 셀레니움 사용법 익히기.
+  - 6-3. 구글 이미지 스크롤 내리는 함수 만들기.
+  - 6-4. 이미지 소스 찾아서 리스트 저장하기.
+  - 6-5. 이미지 다운받기.
+  - 6-6. 하나의 함수로 묶어서 정리하기. 
+  - [실습] 셀레니움을 통한 스타벅스 매장 주소 크롤링 및 
 
 #### 6회차 참고사이트 <br>
 크롬드라이버: https://chromedriver.chromium.org/ <br>
