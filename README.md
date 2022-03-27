@@ -84,7 +84,7 @@ HTML Tutorial : https://www.w3schools.com/html/ <br>
 - 7-4. 형태소 분석 [OKT/KKMA]
 - 7-5. 빈도수 확인하기
 - 7-6. 신조어 추가 및 불용어 제거
-- 7-7. 워드클라우드 시각화 
+- 7-7. 워드클라우드 시각화 [[마스샘플]](https://github.com/Hanbi-Kim/TextMining/blob/main/images/mask_sample.zip?raw=true)
 
 #### 7회차 참고사이트 <br>
 KONLPY 공식 홈페이지: https://konlpy.org/ko/latest/# <br>
