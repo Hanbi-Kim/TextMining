@@ -89,6 +89,7 @@ HTML Tutorial : https://www.w3schools.com/html/ <br>
 #### 7회차 참고사이트 <br>
 KONLPY 공식 홈페이지: https://konlpy.org/ko/latest/# <br>
 한국어 POS Tag 비교: https://docs.google.com/spreadsheets/d/1OGAjUvalBuX-oZvZ_-9tEfYD2gQe7hTGsgUpiiBSXI8/edit#gid=0 <br>
+키워드 분석 사이트 : https://webpus.com/best-keyword-research-tools/ <br>
 
 <br>
 
