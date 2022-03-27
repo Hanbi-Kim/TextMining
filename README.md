@@ -90,6 +90,7 @@ HTML Tutorial : https://www.w3schools.com/html/ <br>
 KONLPY 공식 홈페이지: https://konlpy.org/ko/latest/# <br>
 한국어 POS Tag 비교: https://docs.google.com/spreadsheets/d/1OGAjUvalBuX-oZvZ_-9tEfYD2gQe7hTGsgUpiiBSXI8/edit#gid=0 <br>
 키워드 분석 사이트 정리: https://webpus.com/best-keyword-research-tools/ <br>
+텍스트마이닝을 이용한 패션 유튜브 명품 후기 콘텐츠에 대한 소비자 리뷰 분석:[PDF](http://andong.dcollection.net/public_resource/pdf/200000502586_20220327182221.pdf) <br>
 
 <br>
 
