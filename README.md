@@ -86,7 +86,7 @@ HTML Tutorial : https://www.w3schools.com/html/ <br>
 - 7-6. 신조어 추가 및 불용어 제거
 - 7-7. 워드클라우드 시각화 [[Mask샘플]](https://github.com/Hanbi-Kim/TextMining/blob/main/images/mask_sample.zip?raw=true)
 
-### 참고: 
+#### 참고: 
 KONLPY 설치가 안되셔서 주피터에서 안돌아가시는 경우 구글 코랩 환경에서 일단은 구글코랩에서 먼저 실습해보시면 좋을 것 같습니다.<br>[[구글코랩]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter07_%EB%B9%88%EB%8F%84%EB%B6%84%EC%84%9D_%EA%B5%AC%EA%B8%80%EC%BD%94%EB%9E%A9.ipynb) 해당 링크로 이동하시고, 좌측 상단에 [Open in colab] 탭을 클릭하시면, 구글 코랩 페이지에서 작업 하실수 있으며, 주피터 환경이랑 마찬가지로 ipynb 형식으로 작업 하실 수 있습니다. 다만, 클라우드 환경이고 기반이 리눅스 기반이라 조금 다른 부분이 있지만, 그래도 파이썬 코드를 돌리시는데는 지금 까지 배우신것을 똑같이 적용하실 수 있습니다. 
 
 #### 7회차 참고사이트 <br>
