@@ -85,6 +85,7 @@ HTML Tutorial : https://www.w3schools.com/html/ <br>
 - 7-5. 빈도수 확인하기
 - 7-6. 신조어 추가 및 불용어 제거
 - 7-7. 워드클라우드 시각화 [[Mask샘플]](https://github.com/Hanbi-Kim/TextMining/blob/main/images/mask_sample.zip?raw=true)
+- [[구글코랩]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter07_%EB%B9%88%EB%8F%84%EB%B6%84%EC%84%9D_%EA%B5%AC%EA%B8%80%EC%BD%94%EB%9E%A9.ipynb)
 
 #### 7회차 참고사이트 <br>
 KONLPY 공식 홈페이지: https://konlpy.org/ko/latest/# <br>
