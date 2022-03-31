@@ -100,6 +100,9 @@ KONLPY 공식 홈페이지: https://konlpy.org/ko/latest/# <br>
 ### 8회차 [4/4] 빈도분석과 워드클라우드 시각화 02 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter07%20%EB%B9%88%EB%8F%84%EB%B6%84%EC%84%9D.ipynb)<br>
 - 8-1. OKT 불용어 제거하기
 - 8-2. OKT 신조어 추가하기 [[Colab]](https://colab.research.google.com/github/Hanbi-Kim/TextMining/blob/main/okt_word.ipynb)
+- 8-3. 프로세스를 함수화하여 네이버 뉴스 '사회','정치','경제' 분야의 빈도 분석 진행
+- 8-4. 특정 단어를 포함하는 문장을 찾고 해당 문장내에서 빈도 분석 진행
+- [실습] 네이버 뉴스 특정 분야를 크롤링하여 빈도분석과 워드클라우드 시각화 
 
 <br>
 
