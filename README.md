@@ -105,6 +105,7 @@ KONLPY 공식 홈페이지: https://konlpy.org/ko/latest/# <br>
 - [실습] 네이버 뉴스 특정 분야를 크롤링하여 빈도분석과 워드클라우드 시각화 
 
 #### 8회차 참고사이트 <br>
+JDK 설치: https://www.oracle.com/java/technologies/downloads/ <br>
 딥러닝을 이용한 자연어 처리 입문: https://wikidocs.net/book/2155 <br>
 <br>
 
