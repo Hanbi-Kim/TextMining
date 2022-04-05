@@ -77,7 +77,7 @@ HTML Tutorial : https://www.w3schools.com/html/ <br>
 
 <br>
 
-### 7회차 [3/28] 빈도분석과 워드클라우드 시각화 [[PPT]](https://www.miricanvas.com/v/1viw07)[[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter07%20%EB%B9%88%EB%8F%84%EB%B6%84%EC%84%9D.ipynb)<br>
+### 7회차 [3/28] 빈도분석과 워드클라우드 시각화 01 [[PPT]](https://www.miricanvas.com/v/1viw07)[[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter07%20%EB%B9%88%EB%8F%84%EB%B6%84%EC%84%9D.ipynb)<br>
 - 7-1. KONPLY 작업 환경 설치 [[pdf]](https://hanbi-kim.github.io/TextMining/files/KONLPY_%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD_%EC%84%A4%EC%B9%98.pdf) [[설치법]](https://konlpy.org/ko/latest/install/)
 - 7-2. 네이버 뉴스 기사 크롤링 코드를 활용하여 원하는 분야 기사 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%89%B4%EC%8A%A4%20%EA%B8%B0%EC%82%AC%20%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
 - 7-3. 텍스트 데이터 전처리 [중복/Null 제거]
