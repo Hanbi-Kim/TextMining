@@ -114,6 +114,7 @@ JDK 설치: https://www.oracle.com/java/technologies/downloads/ <br>
 <br>
 
 ### 9회차 [4/15] 빈도분석과 워드클라우드 시각화 03 
+- 9-1. 더배트맨 영화 리뷰 빈도분석 및 워드클라우드 시각화 실습
 
 ## 데이터 분석 관련 데이터 수집 및 공모전
 KAGGLE: https://www.kaggle.com/ <br>
