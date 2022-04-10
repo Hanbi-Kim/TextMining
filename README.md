@@ -62,7 +62,7 @@ HTML Tutorial : https://www.w3schools.com/html/ <br>
 
 <br>
 
-### 6회차 [3/21]: Selenium을 활용한 동적 웹 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter6_%EA%B5%AC%EA%B8%80%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.ipynb)
+### 6회차 [3/21]: Selenium을 활용한 동적 웹 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter06_%EA%B5%AC%EA%B8%80%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.ipynb)
   - 6-1. 셀레니움 설치 및 드라이브 불러오기.
   - 6-2. 셀레니움 사용법 익히기.
   - 6-3. 구글 이미지 스크롤 내리는 함수 만들기.
