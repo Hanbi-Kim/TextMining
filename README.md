@@ -113,7 +113,7 @@ JDK 설치: https://www.oracle.com/java/technologies/downloads/ <br>
 딥러닝을 이용한 자연어 처리 입문: https://wikidocs.net/book/2155 <br>
 <br>
 
-### 9회차 [4/11] 빈도분석과 워드클라우드 시각화 03 
+### 9회차 [4/11] 빈도분석과 워드클라우드 시각화 03 [[PPT]](https://www.miricanvas.com/v/1yho6r)
 - 9-1. 더배트맨 영화 리뷰 빈도분석 및 워드클라우드 시각화 실습
 
 
