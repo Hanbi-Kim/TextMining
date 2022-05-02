@@ -118,8 +118,14 @@ JDK 설치: https://www.oracle.com/java/technologies/downloads/ <br>
 
 <br>
 
-### 10-11회차 [4/18-25] 네이버 뉴스 기사 크롤링 <br>
+### 10회차 [4/18] 네이버 뉴스 기사 크롤링 <br>
 - 10-1. 네이버 뉴스 기사 크롤링 실습
+
+<br>
+
+### 11회차 [5/02] 네이버 뉴스 기사 크롤링 [본문포함] <br>
+- 11-1. 파이썬 라이브러리 활용 [datetime] [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%5D%20Datetime.ipynb)
+- 11-2. 네이버 뉴스 기사 크롤링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/NaverNewsCrawling.ipynb)
 
 ## 데이터 분석 관련 데이터 수집 및 공모전
 KAGGLE: https://www.kaggle.com/ <br>
