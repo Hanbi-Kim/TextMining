@@ -129,6 +129,18 @@ JDK 설치: https://www.oracle.com/java/technologies/downloads/ <br>
 
 <br>
 
+### 13회차 [5/16] 네이버 리뷰 감성분석 <br>
+- 13-1. 네이버 리뷰 감성 분석 [datetime] [[Jupyter]]([https://github.com/Hanbi-Kim/TextMining/blob/main/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%5D%20Datetime.ipynb](https://github.com/Hanbi-Kim/TextMining/blob/main/%EB%84%A4%EC%9D%B4%EB%B2%84%EB%A6%AC%EB%B7%B0_%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D.ipynb))
+
+
+<br>
+
+### 14회차 [5/23] 뉴스 헤드라인 토픽 모델링 <br>
+- 14-1. 데이콘 뉴스 헤드라인 데이터셋 [[Dacon]]([https://github.com/Hanbi-Kim/TextMining/blob/main/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%5D%20Datetime.ipynb](https://dacon.io/competitions/official/235747/overview/description))
+- 14-2. 토픽 모델링 [[Jupyter]]([https://github.com/Hanbi-Kim/TextMining/blob/main/NaverNewsCrawling.ipynb](https://github.com/Hanbi-Kim/TextMining/blob/main/%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC_%ED%86%A0%ED%94%BD%EB%AA%A8%EB%8D%B8%EB%A7%81LDA.ipynb))
+
+<br>
+
 ## 데이터 분석 관련 데이터 수집 및 공모전
 KAGGLE: https://www.kaggle.com/ <br>
 DACON: https://dacon.io/ <br>
