@@ -137,7 +137,13 @@ JDK 설치: https://www.oracle.com/java/technologies/downloads/ <br>
 
 ### 14회차 [5/23] 뉴스 헤드라인 토픽 모델링 <br>
 - 14-1. 데이콘 뉴스 헤드라인 데이터셋 [[Dacon]](https://github.com/Hanbi-Kim/TextMining/blob/main/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%5D%20Datetime.ipynb](https://dacon.io/competitions/official/235747/overview/description))
-- 14-2. 토픽 모델링 [[Jupyter]]([https://github.com/Hanbi-Kim/TextMining/blob/main/NaverNewsCrawling.ipynb](https://github.com/Hanbi-Kim/TextMining/blob/main/%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC_%ED%86%A0%ED%94%BD%EB%AA%A8%EB%8D%B8%EB%A7%81LDA.ipynb)](https://github.com/Hanbi-Kim/TextMining/blob/main/%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC_%ED%86%A0%ED%94%BD%EB%AA%A8%EB%8D%B8%EB%A7%81LDA.ipynb))
+- 14-2. 토픽 모델링 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC_%ED%86%A0%ED%94%BD%EB%AA%A8%EB%8D%B8%EB%A7%81LDA.ipynb)
+
+<br>
+
+
+### 15회차 [5/30] 뉴스 헤드라인 토픽 분류 <br>
+- 15-1. 토픽 분류 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Dacon_NewsTopic_Classification.ipynb)
 
 <br>
 
