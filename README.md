@@ -95,7 +95,9 @@ KONLPY 공식 홈페이지: https://konlpy.org/ko/latest/# <br>
 키워드 분석 사이트 정리: https://webpus.com/best-keyword-research-tools/ <br>
 
 #### 7회차 참고 논문 <br>
-텍스트마이닝을 활용한 화장품 소비 변화에 관한 연구: 코로나19 전후 비교: [RISS](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=8f55a61531056d66ffe0bdc3ef48d419&keyword=%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%8B%9D) <br>
+텍스트마이닝을 활용한 화장품 소비 변화에 관한 연구: 코로나19 전후 비교: [RISS](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=8f55a61531056d66ffe0bdc3ef48d419&keyword=%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%8B%9D) 
+
+<br>
 
 ### 8회차 [4/4] 빈도분석과 워드클라우드 시각화 02 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/Chapter08%20%EB%B9%88%EB%8F%84%EB%B6%84%EC%84%9D%2002.ipynb)<br>
 - 8-1. OKT 불용어 제거하기
