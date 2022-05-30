@@ -130,7 +130,7 @@ JDK 설치: https://www.oracle.com/java/technologies/downloads/ <br>
 <br>
 
 ### 13회차 [5/16] 네이버 리뷰 감성분석 <br>
-- 13-1. 네이버 리뷰 감성 분석 [datetime] [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/%EB%84%A4%EC%9D%B4%EB%B2%84%EB%A6%AC%EB%B7%B0_%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D.ipynb)
+- 13-1. 네이버 리뷰 감성 분석 [[Jupyter]](https://github.com/Hanbi-Kim/TextMining/blob/main/%EB%84%A4%EC%9D%B4%EB%B2%84%EB%A6%AC%EB%B7%B0_%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D.ipynb)
 
 <br>
 
